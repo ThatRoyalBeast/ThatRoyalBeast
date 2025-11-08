@@ -6,11 +6,14 @@
 
 ![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ThatFlashStrike.ThatFlashStrike)
 
-# 👑 𝐊𝐢𝐧𝐠 𝐄𝐯𝐚𝐞𝐧. 👑
-<font size="1"><b>"𝔗𝔥𝔢 𝔐𝔞𝔰𝔱𝔢𝔯 𝔬𝔣 𝔗𝔥𝔦𝔰 ℭ𝔞𝔰𝔱𝔩𝔢."</b></font>
+<p align="center"> 
+<img src="https://github.com/ThatFlashStrike/ThatFlashStrike/blob/main/king_evaen.png" alt="👑 King Evaen 👑" width="500" />
+<br>
+  <small><b>"𝔗𝔥𝔢 𝔐𝔞𝔰𝔱𝔢𝔯 𝔬𝔣 𝔗𝔥𝔦𝔰 ℭ𝔞𝔰𝔱𝔩𝔢."</b></small>
 
-ᴛʜᴇ ᴜɴᴅᴇʀʟɪɴᴇᴅ ᴡᴏʀᴅꜱ ᴀʀᴇ ᴄʟɪᴄᴋᴀʙʟᴇ.
-
+<p align="center">
+  <sub>ᴛʜᴇ ᴜɴᴅᴇʀʟɪɴᴇᴅ ᴡᴏʀᴅꜱ ᴀʀᴇ ᴄʟɪᴄᴋᴀʙʟᴇ.</sub>
+</p>
 <br>
 
 <details>
