@@ -61,7 +61,7 @@
     <p>Often apprehensive with friendships.</p>
     <p>I am not afraid to tell you i don't like something.</p>
     <p>Generalised Anxiety Disorder.</p>
-    <p>Manic episodes can happen if lonely for days.</p>
+    <p>Manic episodes can happen.</p>
     <p>Mood swings, this includes being snappy.</p>
     <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
