@@ -20,7 +20,8 @@
   <summary><ins>About Me</ins></summary>
 
   <div align="center">
-    <p>Hello, my name is Evaen (Ev for short) and i'm 18 years old, the birthday being on the 20th of November.</p>
+    <p>Hello, my name is Evaen and i'm 18 years old, the birthday being on the 20th of November.</p>
+    <p>Nicknames: Lord Evaen, Prince Evaen, Ev, Blue Guy</p>
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
     <p>I'm an ENFJ 1w2+2w3, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
