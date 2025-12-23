@@ -56,6 +56,7 @@
 
   <div align="center">
     <p>Realist, Open-minded, straightforward.<p>
+    <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.<p>
     <p>Might irritate you, it is not intentional.<p>
@@ -75,6 +76,7 @@
 
 <div align="center">
   <p>Under 12 years old.<p>
+  <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
   <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
