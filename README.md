@@ -55,7 +55,7 @@
   <summary><ins>⚠️ CAUTION ⚠️</ins></summary>
 
   <div align="center">
-    <p>I Bite.</p>
+    <p>I bite, interact with extra caution.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
