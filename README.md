@@ -24,7 +24,7 @@
     <p>Nicknames: Bear, Ev, Blue Guy, Beast</p>
     <p>British Gypsy, Czech, Hungarian, Russian | English & Czech speaker.</p>
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
-    <p>I'm a semi-verbal E/INFJ 1w2+2w3, in case a person like this doesn't suit your taste.</p>
+    <p>I'm a semi-verbal E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
     <p>I am blind in my left eye and have Level Two Autism.</p>
     <p>Side note: hyperfixated on all shades of blue and is a big part of me. 💙</p>
