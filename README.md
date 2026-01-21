@@ -58,16 +58,17 @@
   <div align="center">
     <p>I bite, interact with extra caution.</p>
     <p>Jealous with my favourite friends and favourite fictional characters.</p>
+    <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
+    <p>I push myself away from people at times.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.<p>
-    <p>Might irritate you, it is not intentional.<p>
     <p>Often apprehensive with friendships.</p>
     <p>I am not afraid to tell you i don't like something.</p>
     <p>Generalised Anxiety Disorder.</p>
     <p>Manic episodes can happen.</p>
-    <p>Mood swings, this includes being snappy.</p>
+    <p>Mood swings, this includes being snappy, i'm commonly frustrated/angry.</p>
     <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
@@ -84,7 +85,7 @@
   <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
   <p>Liars.</p>
-  <p>Bullies children and/or the elderly for fun.</p>
+  <p>Bullies children and/or the elderly for fun (in general, but those two are the most common).</p>
   <p>Plays the victim.</p>
   <p>Stubborn.</p>
   <p>Close minded.</p>
@@ -94,7 +95,6 @@
   <p>Boundaries aren't listened to.</p>
   <p>Showing affection and love = that i want to be in a relationship with you.</p>
   <p>Plans to use me for something.</p>
-  <p>Resistant to make time for your friends (excluding if you're forgetful).</p>
   <p>Sexualizes Prince Adam and/or his Beast form.</p>
   <p>Is another selfshipper with Twilight Sparkle, this makes me uncomfortable.</p>
 </div>
