@@ -57,6 +57,7 @@
 
   <div align="center">
     <p>I bite, interact with extra caution.</p>
+    <p>Jealous with my favourite friends and favourite fictional characters.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
