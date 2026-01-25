@@ -122,7 +122,7 @@
   <summary><ins>Characters (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Twilight Sparkle (My Little Pony), Flash Strike (OC), Flash Sentry (My Little Pony), Jackie Estacado (The Darkness), Superman (Detective Comics), Ao Bing (Ne Zha), The Hulk (Marvel Comics), Prince Adam (Beauty and The Beast), Sara Pezzini (Witchblade), Mufasa (The Lion King), Lord Solaris (My Little Pony), Thorax (My Little Pony), Asha (Wings of Fire), Asgore Dreemurr (Undertale), Prince Shining Armour (My Little Pony), Galio (League of Legends), Storm Dragon Aurelion Sol (League of Legends), Tanjiro Kamado (Demon Slayer), Glamrock Freddy (Five Nights at Freddy's: Security Breach), Seven (Brawlhalla), Pavitr Prabhakar (Spider-Man), Harry Potter (Harry Potter), Kion (The Lion Guard), Gyomei Himejima (Demon Slayer, Leon (Pokémon), Hastur (The King in Yellow) [ONGOING].  </p>
+    <p>Twilight Sparkle (My Little Pony), Flash Strike (OC), Flash Sentry (My Little Pony), Jackie Estacado (The Darkness), Superman (Detective Comics), Ao Bing (Ne Zha), The Hulk (Marvel Comics), Prince Adam (Beauty and The Beast), Sara Pezzini (Witchblade), Mufasa (The Lion King), Lord Solaris (My Little Pony), Thorax (My Little Pony), Asha (Wings of Fire), Asgore Dreemurr (Undertale), Prince Shining Armour (My Little Pony), Galio (League of Legends), Storm Dragon Aurelion Sol (League of Legends), Tanjiro Kamado (Demon Slayer), Glamrock Freddy (Five Nights at Freddy's: Security Breach), Seven (Brawlhalla), Pavitr Prabhakar (Spider-Man), Viserion (Game of Thrones), Harry Potter (Harry Potter), Kion (The Lion Guard), Gyomei Himejima (Demon Slayer, Leon (Pokémon), Hastur (The King in Yellow) [ONGOING].  </p>
   </div>
 </details>
 
