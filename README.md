@@ -67,6 +67,7 @@
     <p>Often apprehensive with friendships.</p>
     <p>I am not afraid to tell you i don't like something.</p>
     <p>Generalised Anxiety Disorder.</p>
+    <p>Tired all the time.</p>
     <p>Manic episodes can happen.</p>
     <p>Mood swings, this includes being snappy, i'm commonly frustrated/angry.</p>
     <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
