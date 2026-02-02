@@ -37,7 +37,7 @@
   <summary><ins>Pony Town</ins></summary>
 
   <div align="center">
-    <p>I love cuddles, piles, do whatever you want even if I'm with people, shoutout to my cuddlers — just don't do anything that'll irritate me on purpose.</p>
+    <p>I love cuddles, piles, do whatever you want even if I'm with people, shoutout to my cuddlers — just don't do anything that'll irritate me on purpose, and try not to cover my Beast cosplay even a little bit.</p>
     <p>I enjoy hangouts and crowds.<p>
     <p>Covering me is always fine by friends or if it's for cuddle purposes by strangers — otherwise, don't cover me for a long period of time.<p>
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
