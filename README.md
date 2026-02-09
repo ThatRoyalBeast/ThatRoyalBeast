@@ -41,7 +41,7 @@
     <p>I enjoy hangouts and crowds.<p>
     <p>(EXCLUDING MY BEAST COSPLAY) Covering me is fine by friends or if it's for cuddle purposes by strangers.<p>
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
-    <p>I adore waking up to whispers, you are open to do so.</p>
+    <p>I adore waking up to whispers, you are open to send any, spam is ok because of the new tabs.</p>
     <p>Don't expect a response out of me all the time, but i will respond if i want to.<p>
     <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin — sleep emote doesn't always mean i'm busy.<p>
     <p>I'd appreciate if you don't ask to rolepay with me or even think i will.<p>
