@@ -107,7 +107,7 @@
   <summary><ins>Animals (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, Reptiles, Big Dogs, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Horses (generally all but especially bulk breeds), Leopard Seals, Gorillas, Bisons, Wolves. </p>
+    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Big Dogs, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Horses (generally all but especially bulk breeds), Leopard Seals, Gorillas, Bisons, Wolves. </p>
   </div>
 </details>
 
