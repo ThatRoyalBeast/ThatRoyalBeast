@@ -97,7 +97,7 @@
   <p>Showing affection and love = that i want to be in a relationship with you.</p>
   <p>Plans to use me for something.</p>
   <p>Sexualizes Prince Adam and/or his Beast form.</p>
-  <p>Is another selfshipper with Twilight Sparkle, this makes me uncomfortable.</p>
+  <p>Is another selfshipper with Twilight Sparkle, this makes me uncomfortable, plus i am obsessive over her.</p>
 </div>
 </details>
 <br>
