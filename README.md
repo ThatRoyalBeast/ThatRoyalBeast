@@ -153,7 +153,12 @@
 </details>
 
 <br>
-<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/animals/animals-bears.png" />
+<p align="center">
+  <img src="https://www.pngall.com/wp-content/uploads/5/Beauty-And-The-Beast-Emma-Watson-Movie-PNG-File-Download-Free.png" width="500" />
+</p>
+<br>
+
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/animals/animals-bears.png"  />
 <img src="https://lolo-little-collectibles.neocities.org/stamps/s16.png" />
 <img src="https://64.media.tumblr.com/9593741822677b7faf1c1184d337072d/50aafb6f019b2d66-01/s100x200/691cedafd39f247dbc8589334ef3e38f4bc7eb4d.pnj" />
 <img src="https://64.media.tumblr.com/288e3eb9dc143118a38f34b79598c96b/7eb0040f9fb84bff-25/s100x200/4eb03d2612e3f37b0771c40fb9521d2f44c8e64f.gifv" />
@@ -179,9 +184,3 @@
 <img src="https://64.media.tumblr.com/03794cd0d97eefabd14f33ba2bbbae83/0de1c74e9f2b6803-32/s100x200/33cbe909be22d953ee3ded846f6d2ca80c0dfbac.png" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/tv/shows-spn275.png" />
 
-
-<br>
-<br>
-<p align="center">
-  <img src="https://www.pngall.com/wp-content/uploads/5/Beauty-And-The-Beast-Emma-Watson-Movie-PNG-File-Download-Free.png" width="500" />
-</p>
