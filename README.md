@@ -107,7 +107,7 @@
   <summary><ins>Animals (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Big Dogs, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Horses (generally all but especially bulk breeds), Leopard Seals, Gorillas, Bisons, Wolves. </p>
+    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Centipedes, Big Dogs, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Horses (generally all but especially bulk breeds), Leopard Seals, Gorillas, Bisons, Wolves. </p>
   </div>
 </details>
 
@@ -152,6 +152,35 @@
   </div>
 </details>
 
+<br>
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/animals/animals-bears.png" />
+<img src="https://lolo-little-collectibles.neocities.org/stamps/s16.png" />
+<img src="https://64.media.tumblr.com/9593741822677b7faf1c1184d337072d/50aafb6f019b2d66-01/s100x200/691cedafd39f247dbc8589334ef3e38f4bc7eb4d.pnj" />
+<img src="https://64.media.tumblr.com/288e3eb9dc143118a38f34b79598c96b/7eb0040f9fb84bff-25/s100x200/4eb03d2612e3f37b0771c40fb9521d2f44c8e64f.gifv" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/emo11.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/webcore75.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/proship10.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/webcore76.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/agree2.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/eyes2.gif" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/eyes3.png" />
+<img src="https://external-media.spacehey.net/media/sx7YUHR8Uvho7Uf_fWrH15w-ErVAtfLMG0bGhtkPjwgU=/https://y2k.neocities.org/stamps/daydreamer_stamp_by_rogue_ranger-d9fl0we.gif" />
+<img src="https://pixelsafari.neocities.org/stamps/cloud.png" />
+<img src="https://64.media.tumblr.com/c7124dbcd6aecf1941a04214ee9c9efe/181ef86fd5fa91d2-33/s100x200/d598b49b59985def553d19f1bec8d6970103ab68.gifv" />
+<img src="https://y2k.neocities.org/stamps/tumblr_pgef2uZbKY1xzybrpo2_100.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/angel3.gif" />
+<img src="https://external-media.spacehey.net/media/sNyCoEmodIeU5-mOgUXm2aO94pgCo2Kxww942kNaZgvg=/https://i.ibb.co/qBJH6pp/IMG-1139.gif" />
+<img src="https://64.media.tumblr.com/15fec19bde0d8c99b64fdf4559864a9f/3b87a576139c7aea-29/s100x200/d4677a401b68ee4595a99ba39be98fb77a77ae90.gifv" />
+<img src="https://lolo-little-collectibles.neocities.org/stamps/s916.png" />
+<img src="https://y2k.neocities.org/stamps2/blue_flamez_by_gaphals-dbyq0g6.gif" />
+<img src="https://tooniz-graphics.neocities.org/a73.gif" />
+<img src="https://64.media.tumblr.com/d54a9d4b772a5602beb363ec56da93ac/12399935739b482a-29/s100x200/7574912bc107de7e3c71a6b6db69497a3cbffc92.gifv" />
+<img src="https://64.media.tumblr.com/e9d3900d1ffdae895449b176794d599d/3cae2bfd02456a3c-58/s100x200/62c807d2f00f0dee56f601a9eaa7448cf4d801cd.pnj" />
+<img src="https://64.media.tumblr.com/03794cd0d97eefabd14f33ba2bbbae83/0de1c74e9f2b6803-32/s100x200/33cbe909be22d953ee3ded846f6d2ca80c0dfbac.png" />
+<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/tv/shows-spn275.png" />
+
+
+<br>
 <br>
 <p align="center">
   <img src="https://www.pngall.com/wp-content/uploads/5/Beauty-And-The-Beast-Emma-Watson-Movie-PNG-File-Download-Free.png" width="500" />
