@@ -159,8 +159,8 @@
 <br>
 
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/animals/animals-bears.png"  />
-<img src="https://lolo-little-collectibles.neocities.org/stamps/s16.png" />
 <img src="https://64.media.tumblr.com/9593741822677b7faf1c1184d337072d/50aafb6f019b2d66-01/s100x200/691cedafd39f247dbc8589334ef3e38f4bc7eb4d.pnj" />
+<img src="https://lolo-little-collectibles.neocities.org/stamps/s16.png" />
 <img src="https://64.media.tumblr.com/288e3eb9dc143118a38f34b79598c96b/7eb0040f9fb84bff-25/s100x200/4eb03d2612e3f37b0771c40fb9521d2f44c8e64f.gifv" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/emo11.png" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/webcore75.png" />
@@ -170,7 +170,6 @@
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/eyes2.gif" />
 <img src="https://external-media.spacehey.net/media/sx7YUHR8Uvho7Uf_fWrH15w-ErVAtfLMG0bGhtkPjwgU=/https://y2k.neocities.org/stamps/daydreamer_stamp_by_rogue_ranger-d9fl0we.gif" />
 <img src="https://pixelsafari.neocities.org/stamps/cloud.png" />
-<img src="https://64.media.tumblr.com/c7124dbcd6aecf1941a04214ee9c9efe/181ef86fd5fa91d2-33/s100x200/d598b49b59985def553d19f1bec8d6970103ab68.gifv" />
 <img src="https://y2k.neocities.org/stamps/tumblr_pgef2uZbKY1xzybrpo2_100.png" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/angel3.gif" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/misc/eyes3.png" />
