@@ -26,8 +26,8 @@
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
     <p>I'm a selective mute/semi-verbal E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
-    <p>I am blind in my left eye and have Level Two Autism.</p>
-    <p>Side note: hyperfixated on all shades of blue and is a big part of me. 💙</p>
+    <p>I am blind in my left eye, and i have MDD + GAD + ASD.</p>
+    <p>Side note: hyperfixated on all shades of blue and is a very big part of me. 💙</p>
   </div>
 </details>
 
@@ -58,6 +58,7 @@
   <div align="center">
     <p>I bite, interact with extra caution.</p>
     <p>Jealous with my favourite friends and favourite fictional characters.</p>
+    <p>Platonically loving with friends i'm comfortable with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
     <p>I push myself away from people at times.</p>
     <p>Realist, Open-minded, straightforward.<p>
@@ -66,10 +67,9 @@
     <p>Respect matters a lot to me, not just towards me but towards others as well.<p>
     <p>Often apprehensive with friendships.</p>
     <p>I am not afraid to tell you i don't like something.</p>
-    <p>Generalised Anxiety Disorder.</p>
     <p>Tired all the time (sleepy boy, zzz).</p>
     <p>Manic episodes can happen.</p>
-    <p>Mood swings, this includes being snappy, i'm commonly frustrated/angry.</p>
+    <p>Mood swings, this includes being snappy and hostile, i'm commonly frustrated/angry.</p>
     <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
