@@ -61,6 +61,7 @@
     <p>Platonically loving with friends i'm comfortable with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
     <p>I push myself away from people at times.</p>
+    <p>Mixed signals if i don't know whether i like you or not.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
