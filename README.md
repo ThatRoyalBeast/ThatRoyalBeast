@@ -57,21 +57,20 @@
 
   <div align="center">
     <p>I bite, interact with extra caution.</p>
-    <p>Jealous with my favourite friends and favourite fictional characters.</p>
-    <p>Platonically loving with friends i'm comfortable with.</p>
+    <p>Jealous with my close buddies and favourite fictional characters.</p>
+    <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
-    <p>I push myself away from people at times.</p>
-    <p>Mixed signals if i don't know whether i like you or not.</p>
+    <p>I push myself away from people at times even if i like you.</p>
+    <p>Mixed signals when i don't know whether i like you or not.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
-    <p>Respect matters a lot to me, not just towards me but towards others as well.<p>
+    <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
+    <p>Most likely will not like you if you love blue as much as i do.</p>
     <p>Often apprehensive with friendships.</p>
-    <p>I am not afraid to tell you i don't like something.</p>
     <p>Tired all the time (sleepy boy, zzz).</p>
     <p>Manic episodes can happen.</p>
-    <p>Mood swings, this includes being snappy and hostile, i'm commonly frustrated/angry.</p>
-    <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
+    <p>Mood swings, this includes being snappy and hostile, but i'm commonly frustrated/angry.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
 </details>
@@ -82,6 +81,7 @@
 
 <div align="center">
   <p>Under 12 years old.<p>
+  <p>Does not apologize, always has to be told to do so.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
   <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
@@ -108,7 +108,7 @@
   <summary><ins>Animals (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indominus_rex">Indominus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indoraptor">Indoraptor</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Big Protective Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Leopard Seals, Centipedes, Gorillas, Bisons, Wolves. </p>
+    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indominus_rex">Indominus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indoraptor">Indoraptor</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Mammoths, Big Protective Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Leopard Seals, Centipedes, Gorillas, Bisons, Wolves. </p>
   </div>
 </details>
 
@@ -116,7 +116,7 @@
   <summary><ins>Hobbies</ins></summary>
 
   <div align="center">
-    <p>Computer Technician Hobbyist, Reading old comics, Drawing, Lots of re-reading and re-watching, Character Designing, Basketball, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Ex-Programmer, Picking fruit, Foodie. Also highly fixated on all the shades of blue in a concerning amount 🤣.</p>
+    <p>Computer Technician hobbyist, Reading old comics, Drawing, Sleeping, Lots of re-reading and re-watching, Character Designing, Basketball, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Picking fruit, Foodie.</p>
   </div>
 </details>
 
@@ -133,7 +133,7 @@
 
   <div align="center">
     <p>Too many to name, i've played over 400 games in my lifetime.</p>
-    <p>I do have favourites, in order: The Darkness II, The Elder Scrolls V: Skyrim, Far Cry 5, Dishonored, Kingdom Two Crowns, Red Dead Redemption (all games), Ark: Survival Evolved, Resident Evil , League of Legends, Assassins Creed, Jurassic World Evolution 2, Grand Theft Auto, Roblox (Creatures of Sonaria, Ecos: La Brea), The Quarry, Dead Island, Middle-Earth: Shadow of Mordor, Dragon Age, LEGO® Jurassic World, Devil May Cry, Geometry Dash, Sky: Children Of The Light, WolfQuest: Anniversary Edition, Elden Ring, Van Helsing, Dark Souls, Super Smash Bros </p>
+    <p>I do have favourites, in order: The Darkness II, Red Dead Redemption (all games), The Elder Scrolls V: Skyrim, Far Cry 5, Dishonored, Kingdom Two Crowns, Ark: Survival Evolved (and Ascended), Resident Evil, League of Legends, Avatar: Frontiers of Pandora, Assassins Creed, Jurassic World Evolution (all games), Roblox (Creatures of Sonaria, Ecos: La Brea), The Quarry, Maneater, Dead Island, Middle-Earth: Shadow of Mordor, Dragon Age, LEGO® Jurassic World, Devil May Cry, Geometry Dash, Sky: Children Of The Light, WolfQuest: Anniversary Edition, Elden Ring, Van Helsing, Dark Souls, Super Smash Bros </p>
   </div>
 </details>
 
@@ -141,7 +141,7 @@
   <summary><ins>Films/Television</ins></summary>
 
   <div align="center">
-    <p>Harry Potter | The Lord Of the Rings | Planet of the Apes | Life of Pi | The Hunger Games | Rio | Avatar (James Cameron) | Hulk | Godzilla | I Am Legend | Narnia | Old | Raya: The Last Dragon | My Little Pony | Game of Thrones | The Lion Guard | Maleficent | A Quiet Place | The Invisible Man | Jumanji | The Lion King | Beauty and The Beast | Aladdin | Bird Box | Kong: Skull Island | IT | Frozen | Finding Nemo | Kung fu Panda | Jurassic Park | Home Alone | E.T | The Little Mermaid</p>
+    <p>Harry Potter | The Lord Of the Rings | Planet of the Apes | Life of Pi | The Hunger Games | Rio | Avatar (James Cameron) | Hulk | Godzilla | Zootopia | I Am Legend | Narnia | Old | Raya: The Last Dragon | My Little Pony | Game of Thrones | The Lion Guard | Maleficent | A Quiet Place | The Invisible Man | Jumanji | The Lion King | Beauty and The Beast | Aladdin | Bird Box | Kong: Skull Island | IT | Frozen | Finding Nemo | Kung fu Panda | Jurassic Park | Home Alone | E.T | The Little Mermaid</p>
   </div>
 </details>
 
