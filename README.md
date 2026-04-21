@@ -81,7 +81,7 @@
 
 <div align="center">
   <p>Under 12 years old.<p>
-  <p>Does not apologize, always has to be told to do so.</p>
+  <p>Silence equals awkward.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
   <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
