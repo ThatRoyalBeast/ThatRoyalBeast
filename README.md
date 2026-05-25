@@ -187,4 +187,4 @@
   <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1457497066233397537/1508112537080692878/Untitled_project_21.jpg?ex=6a145ac0&is=6a130940&hm=8d6d7a2872d876cc45d0a858a5b08d204d2d2edac5cf718f46dc52e92c389826" width="420" />
   </div>
-  (Image made by <a href="https://github.com/wednesdayaddamsss">Wednesday.</a>)
+  (Image made by <a href="https://github.com/wednesdayaddamsss">Wednesday</a>).
