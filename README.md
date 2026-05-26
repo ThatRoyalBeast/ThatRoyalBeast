@@ -57,6 +57,7 @@
 
   <div align="center">
     <p>I bite, interact with extra caution.</p>
+    <p>Confrontational.</p>
     <p>Jealous with my close buddies and favourite fictional characters.</p>
     <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
