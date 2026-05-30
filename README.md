@@ -63,7 +63,6 @@
     <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
     <p>I push myself away from people at times even if i like you, this can be for numerous reasons.</p>
-    <p>My love language is giving quality time, words of affirmation, and giving gifts.</p>
     <p>Mixed signals when i don't know whether i like you or not.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
