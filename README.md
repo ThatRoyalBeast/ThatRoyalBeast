@@ -56,22 +56,24 @@
   <summary><ins>⚠️ CAUTION ⚠️</ins></summary>
 
   <div align="center">
-    <p>I bite, interact with extra caution.</p>
-    <p>Confrontational.</p>
-    <p>Jealous with my close buddies and favourite fictional characters.</p>
+    <p>I bite, always interact with EXTREME caution.</p>
+    <p>Confrontational and can become hostile towards you.</p>
+    <p>I will speak my mind, both good and bad.</p>
+    <p>Jealous with my close buddies and favourite fictional characters + media.</p>
     <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
-    <p>I push myself away from people at times even if i like you.</p>
+    <p>I push myself away from people at times even if i like you, this can be for numerous reasons.</p>
+    <p>My love language is giving quality time, words of affirmation, and giving gifts.</p>
     <p>Mixed signals when i don't know whether i like you or not.</p>
     <p>Realist, Open-minded, straightforward.<p>
     <p>I tend to take my sweet time, don't rush me.</p>
+    <p>Sometimes impulsive towards people, this means doing actions without thinking beforehand.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
-    <p>Most likely will not like you if you love blue as much as i do.</p>
     <p>Often apprehensive with friendships.</p>
     <p>Tired all the time (sleepy boy, zzz).</p>
-    <p>Manic episodes can happen.</p>
-    <p>Mood swings, this includes being snappy and hostile, but i'm commonly frustrated/angry.</p>
+    <p>Manic episodes can happen, this means i become incredibly mentally unstable (basically crazy) and can't control myself.</p>
+    <p>Mood swings, this includes being snappy and aggressive, but i'm always frustrated & angry.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
 </details>
@@ -82,6 +84,7 @@
 
 <div align="center">
   <p>Under 12 years old.<p>
+  <p>Loves the colour blue as much as i do, i don't like you.</p>
   <p>Silence equals awkward.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
@@ -96,7 +99,7 @@
   <p>Not willing to know the full story and will just assume.</p>
   <p>Judgemental.</p>
   <p>Boundaries aren't listened to.</p>
-  <p>Showing affection and love = that i want to be in a relationship with you.</p>
+  <p>Thinking that me showing affection and love = that i want to be your boyfriend (+ i'm aromantic & with Twi).</p>
   <p>Plans to use me for something.</p>
   <p>Sexualizes Prince Adam and/or his Beast form.</p>
   <p>Is another selfshipper with Twilight Sparkle, this makes me uncomfortable, plus i am obsessive over her.</p>
@@ -109,7 +112,7 @@
   <summary><ins>Animals (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Brown + Polar + Black Bears, Dragons (beastly giants & drakes), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indominus_rex">Indominus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indoraptor">Indoraptor</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Mammoths, Big Protective Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Leopard Seals, Centipedes, Gorillas, Bisons, Wolves. </p>
+    <p>Bears (all of them except Pandas), Dragons (all of them), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indominus_rex">Indominus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indoraptor">Indoraptor</a>, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Mammoths & Elephants, Big Protective Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, Leopard Seals, Centipedes, Gorillas, Bisons, Wolves. </p>
   </div>
 </details>
 
