@@ -4,8 +4,6 @@
 
 <div align="center">
 
-![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ThatRoyalBeast.ThatRoyalBeast)
-
 <p align="center"> 
 <img src="https://github.com/ThatRoyalBeast/ThatRoyalBeast/blob/main/king_evaen.png" alt="👑 King Evaen 👑" width="500" />
 <br>
