@@ -36,7 +36,7 @@
 
   <div align="center">
     <p>I love cuddles, piles, do whatever you want even if I'm with people, shoutout to my cuddlers — just don't do anything that'll irritate me on purpose, and try not to cover my Beast cosplay for prolonged periods of time.</p>
-    <p>I enjoy hangouts and crowds.<p>
+    <p>I enjoy hangouts and crowds, and i also don't like to see my pony alone.<p>
     <p>(EXCLUDING MY BEAST COSPLAY) Covering me is fine by friends or if it's for cuddle purposes by strangers.<p>
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
     <p>I adore waking up to whispers, you are open to send any, spam is ok because of the new tabs.</p>
