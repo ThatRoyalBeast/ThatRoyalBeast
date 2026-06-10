@@ -45,6 +45,7 @@
     <p>I'd appreciate if you don't ask to rolepay with me or even think i will.<p>
     <p>Don't always assume i'll give you attention for wearing a Belle skin if i don't know you.<p>
     <p>I ignore all advertisements in my whispers, especially ones begging for assistance with their build limit, i'm not the guy for this.<p>
+    <p>I don't like to see my Beast alone, please come up and cuddle/sit behind me! Try not to cover my Beast skin.
     <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent, is an awful action to do, refrain from doing this.</p>
   </div>
 </details>
