@@ -82,6 +82,8 @@
 <div align="center">
   <p>Under 12 years old.<p>
   <p>Loves the colour blue as much as i do, i don't like you.</p>
+  <p>Art thiefs and people who trace and post it publicly.</p>
+  <p>If you enjoy Generated Artificial Intelligence media.</p>
   <p>Silence equals awkward.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
