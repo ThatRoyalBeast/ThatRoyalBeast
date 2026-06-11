@@ -187,11 +187,3 @@
 <img src="https://64.media.tumblr.com/e9d3900d1ffdae895449b176794d599d/3cae2bfd02456a3c-58/s100x200/62c807d2f00f0dee56f601a9eaa7448cf4d801cd.pnj" />
 <img src="https://64.media.tumblr.com/03794cd0d97eefabd14f33ba2bbbae83/0de1c74e9f2b6803-32/s100x200/33cbe909be22d953ee3ded846f6d2ca80c0dfbac.png" />
 <img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/tv/shows-spn275.png" />
-
-<br>
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1457497066233397537/1508112537080692878/Untitled_project_21.jpg?ex=6a26cfc0&is=6a257e40&hm=0b877bce2e8a95480353f6a9fff77d68170cef29b949d44a118c856431acce82" width="300"/>
-  <div align="center">
-Image made by <a href="https://github.com/wednesdayaddamsss">Wednesday.</a>
-</p>
