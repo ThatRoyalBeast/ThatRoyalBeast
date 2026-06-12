@@ -84,14 +84,15 @@
   <p>Under 12 years old.<p>
   <p>Loves the colour blue as much as i do, i don't like you.</p>
   <p>Art thiefs and people who trace and post it publicly.</p>
-  <p>If you enjoy Generated Artificial Intelligence media.</p>
+  <p>If you enjoy Generative Artificial Intelligence media.</p>
   <p>Silence equals awkward.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
   <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
-  <p>Liars.</p>
+  <p>Liars or enjoy making up rumours.</p>
   <p>Bullies children and/or the elderly for fun (in general, but those two are the most common).</p>
+  <p>People who troll or do pranks that are harmful.</p>
   <p>Plays the victim.</p>
   <p>Stubborn.</p>
   <p>Close minded.</p>
