@@ -41,7 +41,7 @@
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
     <p>I adore waking up to whispers, you are open to send any, spam is ok because of the new tabs.</p>
     <p>Don't expect a response out of me all the time, but i will respond if i want to.<p>
-    <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin — sleep emote doesn't always mean i'm busy.<p>
+    <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin; sleep emote doesn't always mean i'm busy.<p>
     <p>I'd appreciate if you don't ask to rolepay with me or even think i will.<p>
     <p>Don't always assume i'll give you attention for wearing a Belle skin if i don't know you.<p>
     <p>I ignore all advertisements in my whispers, especially ones begging for assistance with their build limit, i'm not the guy for this.<p>
