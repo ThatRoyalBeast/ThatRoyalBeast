@@ -81,7 +81,7 @@
 <summary><ins>⚠️ Do Not Befriend ⚠️</ins></summary>
 
 <div align="center">
-  <p>Under 12 years old.<p>
+  <p>Under 13 years old.<p>
   <p>Loves the colour blue as much as i do, i don't like you.</p>
   <p>Art thiefs and people who trace and post it publicly.</p>
   <p>If you enjoy Generative Artificial Intelligence media.</p>
