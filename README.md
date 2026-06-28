@@ -9,6 +9,8 @@
 <br>
   <small><b>"𝔗𝔥𝔢 𝔐𝔞𝔰𝔱𝔢𝔯 𝔬𝔣 𝔗𝔥𝔦𝔰 ℭ𝔞𝔰𝔱𝔩𝔢."</b></small>
 
+  <sub>Do not take heavy inspiration or copy my GitHub page without asking first.</sub>
+
 <p align="center">
   <sub>ᴛʜᴇ ᴜɴᴅᴇʀʟɪɴᴇᴅ ᴡᴏʀᴅꜱ ᴀʀᴇ ᴄʟɪᴄᴋᴀʙʟᴇ.</sub>
 </p>
