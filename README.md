@@ -9,8 +9,6 @@
 <br>
   <small><b>"𝔗𝔥𝔢 𝔐𝔞𝔰𝔱𝔢𝔯 𝔬𝔣 𝔗𝔥𝔦𝔰 ℭ𝔞𝔰𝔱𝔩𝔢."</b></small>
 
-  <sub>There is a person that goes by Spike/Frostii on GitHub that hasn't asked my consent to take heavy inspiration.</sub>
-
 <p align="center">
   <sub>ᴛʜᴇ ᴜɴᴅᴇʀʟɪɴᴇᴅ ᴡᴏʀᴅꜱ ᴀʀᴇ ᴄʟɪᴄᴋᴀʙʟᴇ.</sub>
 </p>
