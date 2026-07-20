@@ -114,7 +114,7 @@
   <summary><ins>Animals (In Order of Likeness)</ins></summary>
 
   <div align="center">
-    <p>Bears (all of them except Pandas), Dragons (all of them), <a href="https://www.urbandictionary.com/define.php?term=wereanimal">Wereanimals</a>, <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, <a href="https://jurassicpark.fandom.com/wiki/Indoraptor">Indoraptor</a>, Eels, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Bulls, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, <a href="https://mythus.fandom.com/wiki/Mermaid">Merfolk (including Sirens)</a>, Big Protective & Herding Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), Hippopotamus, Leopard Seals, Gorillas, Mammoths, Bisons, Elephants, <a href="https://mythus.fandom.com/wiki/Selky">Selkies</a>, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, Arthropods + Arachnids & Insects, Wolves. </p>
+    <p>Bears (all of them except Pandas), Dragons (all of them), <a href="https://www.nhm.ac.uk/discover/dino-directory/body-shape/sauropod/gallery.html">Sauropods</a> (long neck dinosaurs), <a href="https://en.wikipedia.org/wiki/Tyrannosaurus">Tyrannosaurus Rex</a>, Eels, Reptiles (Snakes, Crocodilians, Komodo Dragon), Horses (generally all but especially bulk breeds), Bulls, <a href="https://mythical-bestiary.fandom.com/wiki/List_of_Centaurs">Centaurs</a>, <a href="https://mythus.fandom.com/wiki/Mermaid">Merfolk (including Sirens)</a>, Big Protective & Herding Dogs (<a href="https://www.akc.org/dog-breeds/tibetan-mastiff/">Tibetan</a> + <a href="https://www.akc.org/dog-breeds/mastiff/">English Mastiff</a>, <a href="https://www.purina.co.uk/find-a-pet/dog-breeds/turkish-kangal-dog">Kangal Shepherd</a>), Hippopotamus, Leopard Seals, Gorillas, Mammoths, Bisons, Elephants, <a href="https://mythus.fandom.com/wiki/Selky">Selkies</a>, <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriffs</a>, Arthropods, Larvae & Grubs. </p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@
   <summary><ins>Hobbies</ins></summary>
 
   <div align="center">
-    <p>Computer Technician hobbyist, Reading old comics, Drawing, Sleeping, Lots of re-reading and re-watching, Character Designing, Basketball, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Picking fruit, Foodie.</p>
+    <p>Computer Technician hobbyist, Reading old comics, Drawing, Sleeping, Lots of re-reading and re-watching, Character Designing, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Picking fruit, Foodie.</p>
   </div>
 </details>
 
