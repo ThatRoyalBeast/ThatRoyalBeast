@@ -22,7 +22,7 @@
     <p>Nicknames: Bear, Ev, Blue Guy, Beast, King.</p>
     <p>British Gypsy, Czech, Hungarian, Russian | English & Czech speaker.</p>
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight (I DO NOT SHIP BEAST/PRINCE ADAM WITH TWILIGHT SPARKLE).<p>
-    <p>I'm a selective mute Extrovert E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
+    <p>I'm a semi-mute Extrovert E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
     <p>I am blind in my left eye, and i have MDD + GAD + ASD + Anger Issues.</p>
     <p>Side note: hyperfixated on all shades of blue and is a very big part of me. 💙</p>
