@@ -139,7 +139,7 @@
 
   <div align="center">
     <p>Too many to name, i've played over 400 games in my lifetime.</p>
-    <p>I do have favourites, in order: The Darkness II, Red Dead Redemption (all games), The Elder Scrolls V: Skyrim, Far Cry 5, Dishonored, Kingdom Two Crowns, Ark: Survival Evolved (and Ascended), Resident Evil, League of Legends, Avatar: Frontiers of Pandora, Path of Titans, Assassins Creed, Jurassic World Evolution (all games), Roblox (Creatures of Sonaria, Warden), The Quarry, Maneater, Dead Island, Middle-Earth: Shadow of Mordor, Dragon Age, LEGO® Jurassic World, Devil May Cry, Geometry Dash, Sky: Children Of The Light, WolfQuest: Anniversary Edition, Elden Ring, Van Helsing, Dark Souls, Super Smash Bros </p>
+    <p>I do have favourites, in order: The Darkness II, Avatar: Frontiers of Pandora, Roblox (Creatures of Sonaria, Warden), Path of Titans, The Elder Scrolls V: Skyrim, Far Cry 5, Dishonored, Kingdom Two Crowns, Ark: Survival Evolved (and Ascended), Red Dead Redemption (all games), Resident Evil, League of Legends, Assassins Creed, Jurassic World Evolution (all games), The Quarry, Maneater, Dead Island, Middle-Earth: Shadow of Mordor, Dragon Age, LEGO® Jurassic World, Devil May Cry, Geometry Dash, Sky: Children Of The Light, WolfQuest: Anniversary Edition, Elden Ring, Van Helsing, Dark Souls, Super Smash Bros </p>
   </div>
 </details>
 
