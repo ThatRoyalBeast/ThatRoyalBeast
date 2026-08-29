@@ -122,7 +122,7 @@
   <summary><ins>Hobbies</ins></summary>
 
   <div align="center">
-    <p>Computer Technician hobbyist, Reading old comics, Drawing, Sleeping, Lots of re-reading and re-watching, Character Designing, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Picking fruit, Foodie.</p>
+    <p>Computer Technician hobbyist, Reading old comics, Reading fantasy books, Drawing, Sleeping & Napping, Lots of re-reading and re-watching, Character Designing, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Picking fruit, Gardening, Foodie.</p>
   </div>
 </details>
 
