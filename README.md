@@ -57,7 +57,7 @@
   <div align="center">
     <p>I bite, always interact with EXTREME caution.</p>
     <p>Confrontational and can become hostile towards you.</p>
-    <p>I will speak my mind, both good and bad.</p>
+    <p>I will speak my mind if i'm talking with you, both good and bad.</p>
     <p>Jealous with my close buddies and favourite fictional characters + media.</p>
     <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
@@ -81,17 +81,17 @@
 <summary><ins>⚠️ Do Not Befriend ⚠️</ins></summary>
 
 <div align="center">
-  <p>Under 13 years old.</p>
+  <p>Under 13 years old, older than 30 years old.</p>
   <p>You support Copy Town.</p>
-  <p>Loves the colour blue as much as i do, i don't like you.</p>
+  <p>Loves the colour blue as much as i do, i will not like you and we won't get along.</p>
   <p>Art thiefs and people who trace and post it publicly.</p>
   <p>If you enjoy Generative Artificial Intelligence media.</p>
   <p>Silence equals awkward.</p>
   <p>Expects me to text you first often and make me do "all the work".<p>
   <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
-  <p>Proshippers/Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
+  <p>Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
-  <p>Liars or enjoy making up rumours.</p>
+  <p>Liars and/or enjoys making up rumours.</p>
   <p>Bullies children and/or the elderly for fun (in general, but those two are the most common).</p>
   <p>People who troll or do pranks that are harmful.</p>
   <p>Plays the victim.</p>
@@ -101,10 +101,10 @@
   <p>Not willing to know the full story and will just assume.</p>
   <p>Judgemental.</p>
   <p>Boundaries aren't listened to.</p>
-  <p>Thinking that me showing affection and love = that i want to be your boyfriend (+ i'm aromantic & with Twi).</p>
+  <p>Thinking that me showing affection and love = that i want to be your boyfriend.</p>
   <p>Plans to use me for something.</p>
   <p>Sexualizes Prince Adam and/or his Beast form.</p>
-  <p>Is another selfshipper with Twilight Sparkle, this makes me uncomfortable, plus i am obsessive over her.</p>
+  <p>Is another selfshipper with Twilight Sparkle, we will not get along as friends.</p>
 </div>
 </details>
 <br>
