@@ -39,14 +39,14 @@
     <p>I enjoy hangouts and crowds, and i also don't like to see my pony alone.<p>
     <p>(EXCLUDING MY BEAST COSPLAY) Covering me is fine by friends or if it's for cuddle purposes by strangers.<p>
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
-    <p>I adore waking up to whispers, you are open to send any, spam is ok because of the new tabs.</p>
+    <p>I adore waking up to whispers, you are open to send any including rants and venting but excluding advertisements, spam is okay because of the new tabs.</p>
     <p>Don't expect a response out of me all the time, but i will respond if i want to.<p>
     <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin; sleep emote doesn't always mean i'm busy.<p>
     <p>I'd appreciate if you don't ask to rolepay with me or even think i will.<p>
-    <p>Don't always assume i'll give you attention for wearing a Belle skin if i don't know you.<p>
+    <p>Don't assume i'll give you attention for wearing a Belle skin.<p>
     <p>I ignore all advertisements in my whispers, especially ones begging for assistance with their build limit, i'm not the guy for this.<p>
-    <p>I don't like to see my Beast alone, please come up and cuddle/sit behind me! Try not to cover my Beast skin.
-    <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent, is an awful action to do, refrain from doing this.</p>
+    <p>I don't like to see my Beast alone, please come up and cuddle/sit behind me! Try not to entirely cover my Beast skin.
+    <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent is an awful action to do, refrain from doing this.</p>
   </div>
 </details>
 <br>
