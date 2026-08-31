@@ -147,7 +147,7 @@
   <summary><ins>Films/Television</ins></summary>
 
   <div align="center">
-    <p>Harry Potter | The Lord Of the Rings | Planet of the Apes | Life of Pi | The Hunger Games | Rio | Avatar (James Cameron) | Hulk | Godzilla | Zootopia | I Am Legend | Narnia | Old | Raya: The Last Dragon | My Little Pony | Game of Thrones | The Lion Guard | Maleficent | A Quiet Place | The Invisible Man | Jumanji | The Lion King | Beauty and The Beast | Aladdin | Bird Box | Kong: Skull Island | IT | Frozen | Finding Nemo | Kung fu Panda | Jurassic Park | Home Alone | E.T | The Little Mermaid | The Amazing Digital Circus</p>
+    <p>Harry Potter | The Lord Of the Rings | Planet of the Apes | Life of Pi | The Hunger Games | Rio | Avatar (James Cameron) | Hulk | Godzilla | Zootopia | I Am Legend | Narnia | Old | Raya: The Last Dragon | My Little Pony | Game of Thrones | The Lion Guard | How to Train Your Dragon | Maleficent | A Quiet Place | The Invisible Man | Jumanji | The Lion King | Beauty and The Beast | Aladdin | Bird Box | Kong: Skull Island | IT | Frozen | Finding Nemo | Kung fu Panda | Jurassic Park | Home Alone | E.T | The Little Mermaid | The Amazing Digital Circus</p>
   </div>
 </details>
 
