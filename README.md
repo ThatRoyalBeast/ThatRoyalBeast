@@ -87,8 +87,7 @@
   <p>Art thiefs and people who trace and post it publicly.</p>
   <p>If you enjoy Generative Artificial Intelligence media.</p>
   <p>Silence equals awkward.</p>
-  <p>Expects me to text you first often and make me do "all the work".<p>
-  <p>Homophobic, Racist, Pedophiles, Zoophiles.</p>
+  <p>Homophobic, Sexist, Racist, Pedophiles, Zoophiles.</p>
   <p>Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
   <p>Liars and/or enjoys making up rumours.</p>
