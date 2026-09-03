@@ -65,7 +65,6 @@
     <p>I push myself away from people at times even if i like you, this can be for numerous reasons.</p>
     <p>Mixed signals when i don't know whether i like you or not.</p>
     <p>Realist, Open-minded, straightforward, honest.<p>
-    <p>Do not rush me.</p>
     <p>Sometimes impulsive towards people, this means doing actions without thinking beforehand.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
