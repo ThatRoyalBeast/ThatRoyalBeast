@@ -56,6 +56,7 @@
 
   <div align="center">
     <p>I bite, always interact with EXTREME caution.</p>
+    <p>If we're not best friends/close friends, i will probably forget about you.</p>
     <p>Confrontational and can become hostile towards you.</p>
     <p>I will speak my mind if i'm talking with you, both good and bad.</p>
     <p>Jealous with my close buddies and favourite fictional characters + media.</p>
@@ -63,8 +64,8 @@
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
     <p>I push myself away from people at times even if i like you, this can be for numerous reasons.</p>
     <p>Mixed signals when i don't know whether i like you or not.</p>
-    <p>Realist, Open-minded, straightforward.<p>
-    <p>I tend to take my sweet time, don't rush me.</p>
+    <p>Realist, Open-minded, straightforward, honest.<p>
+    <p>Do not rush me.</p>
     <p>Sometimes impulsive towards people, this means doing actions without thinking beforehand.</p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
@@ -87,6 +88,7 @@
   <p>Art thiefs and people who trace and post it publicly.</p>
   <p>If you enjoy Generative Artificial Intelligence media.</p>
   <p>Silence equals awkward.</p>
+  <p>You think me being vocal about my boundaries and what i want for myself is me being mean.</p>
   <p>Homophobic, Sexist, Racist, Pedophiles, Zoophiles.</p>
   <p>Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
