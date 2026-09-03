@@ -56,7 +56,7 @@
 
   <div align="center">
     <p>I bite, always interact with EXTREME caution.</p>
-    <p>If we're not best friends/close friends, i will probably forget about you.</p>
+    <p>If we're not best friends/close friends and you don't text first, i will probably forget about you.</p>
     <p>Confrontational and can become hostile towards you.</p>
     <p>I will speak my mind if i'm talking with you, both good and bad.</p>
     <p>Jealous with my close buddies and favourite fictional characters + media.</p>
