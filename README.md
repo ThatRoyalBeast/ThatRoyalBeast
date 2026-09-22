@@ -188,4 +188,3 @@
 <img src="https://64.media.tumblr.com/d54a9d4b772a5602beb363ec56da93ac/12399935739b482a-29/s100x200/7574912bc107de7e3c71a6b6db69497a3cbffc92.gifv" />
 <img src="https://64.media.tumblr.com/e9d3900d1ffdae895449b176794d599d/3cae2bfd02456a3c-58/s100x200/62c807d2f00f0dee56f601a9eaa7448cf4d801cd.pnj" />
 <img src="https://64.media.tumblr.com/03794cd0d97eefabd14f33ba2bbbae83/0de1c74e9f2b6803-32/s100x200/33cbe909be22d953ee3ded846f6d2ca80c0dfbac.png" />
-<img src="https://missskunky-graphics.neocities.org/assets/graphics/stamps/tv/shows-spn275.png" />
