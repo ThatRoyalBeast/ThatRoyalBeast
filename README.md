@@ -25,7 +25,7 @@
     <p>I'm a paternal semi-mute Extrovert E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
     <p>I am blind in my left eye, and i have MDD + GAD + ASD + BPD + Anger Issues.</p>
-    <p>Side note: hyperfixated on all shades of blue and is a very big part of me. 💙</p>
+    <p>Side note: hyperfixated on all shades of blue and is a huge part of me (COULD BE ANNOYING TO A LOT OF PEOPLE). 💙</p>
   </div>
 </details>
 
