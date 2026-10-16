@@ -68,7 +68,7 @@
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
     <p>Often apprehensive with friendships.</p>
-    <p>Tired all the time (sleepy boy, zzz).</p>
+    <p>Tired all the time (sleepy man, zzz).</p>
     <p>Manic episodes can happen, this means i become incredibly mentally unstable (basically crazy) and can't control myself.</p>
     <p>Mood swings, this includes being snappy and aggressive, but i'm always frustrated & angry.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
