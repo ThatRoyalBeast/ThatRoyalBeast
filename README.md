@@ -21,7 +21,7 @@
     <p>Hello, my name is Evaen and i'm 18 years old, the birthday being on the 20th of November.</p>
     <p>Nicknames: Bear, Ev, Blue Guy, Beast, Merman, King.</p>
     <p>British Gypsy, Czech, Hungarian, Russian | English & Czech speaker.</p>
-    <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight (I DO NOT SHIP BEAST/PRINCE ADAM WITH TWILIGHT SPARKLE).<p>
+    <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight (I DO NOT SHIP BEAST/PRINCE ADAM WITH TWILIGHT SPARKLE WTF).<p>
     <p>I'm a paternal semi-mute Extrovert E/INFJ 8w9, in case a person like this doesn't suit your taste.</p>
     <p>Born and raised in the United Kingdom.</p>
     <p>I am blind in my left eye, and i have MDD + GAD + ASD + BPD + Anger Issues.</p>
@@ -41,12 +41,12 @@
     <p>Whisper to interact, there's a small chance i might see your public message.</p>
     <p>I adore waking up to whispers, you are open to send any including rants and venting but excluding advertisements, spam is okay because of the new tabs.</p>
     <p>Don't expect a response out of me all the time, but i will respond if i want to.<p>
-    <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin; sleep emote doesn't always mean i'm busy.<p>
+    <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always as i could be texting friends in party/whispers or making a skin; sleep emote doesn't always mean i'm busy.<p>
     <p>I'd appreciate if you don't ask to rolepay with me or even think i will.<p>
     <p>Don't assume i'll give you attention for wearing a Belle skin.<p>
     <p>I ignore all advertisements in my whispers, especially ones begging for assistance with their build limit, i'm not the guy for this.<p>
-    <p>I don't like to see my Beast alone, please come up and cuddle/sit behind me! Try not to entirely cover my Beast skin.
-    <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent is an awful action to do, refrain from doing this.</p>
+    <p>I don't like to see my pony alone, please come up and cuddle/sit behind me! Don't cover my skins.
+    <p>Copying me and/or my friends (non-consensual) with the knowledge of this action being strongly looked down upon is an awful action to do, refrain from doing this.</p>
   </div>
 </details>
 <br>
@@ -57,19 +57,19 @@
   <div align="center">
     <p>I bite, always interact with EXTREME caution.</p>
     <p>Confrontational and can become hostile towards you.</p>
+    <p>In calls i am always Muted, i do not speak unless it is with my family.</p>
+    <p>I say "I love you"/"Love you" in a non-romantic manner, please don't mistake it as anything but platonic.</p>
+    <p>Due to me being paternal, be warned that i do have fatherly behaviours and attitudes.</p>
     <p>I will speak my mind if i'm talking with you, both good and bad.</p>
     <p>Jealous with my close buddies and favourite fictional characters + media.</p>
     <p>Platonically loving & affectionate with friends i'm comfortable being like that with.</p>
     <p>Might follow you around like i'm your shadow if i'm content with you, just tell me if it makes you uncomfortable and i'll stop.</p>
     <p>I push myself away from people at times even if i like you, this can be for numerous reasons.</p>
     <p>Mixed signals when i don't know whether i like you or not.</p>
-    <p>Realist, Open-minded, straightforward, honest.<p>
-    <p>Sometimes impulsive towards people, this means doing actions without thinking beforehand.</p>
+    <p>Realist, Open-minded, straightforward, leader, honest.<p>
     <p>Often blunt and i don't care about a lot of things.<p>
     <p>Respect matters a lot to me, not just towards me but towards others as well.</p>
-    <p>Often apprehensive with friendships.</p>
     <p>Tired all the time (sleepy man, zzz).</p>
-    <p>Manic episodes can happen, this means i become incredibly mentally unstable (basically crazy) and can't control myself.</p>
     <p>Mood swings, this includes being snappy and aggressive, but i'm always frustrated & angry.</p>
     <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
