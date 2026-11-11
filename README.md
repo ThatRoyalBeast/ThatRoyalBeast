@@ -91,7 +91,8 @@
   <p>Darkshippers that do not want to change in the future (i'm fully aware it may take time, and that's okay).</p>
   <p>Looks down on straight people such as myself.</p>
   <p>Liars and/or enjoys making up rumours.</p>
-  <p>Bullies children and/or the elderly for fun (in general, but those two are the most common).</p>
+  <p>You have a strong hatred towards people with age regression and their caregivers.</p>
+  <p>You go out of your way to bully children and/or the elderly for fun (in general, but these are the ones that are considered "the most acceptable" in society).</p>
   <p>People who troll or do pranks that are harmful.</p>
   <p>Plays the victim.</p>
   <p>Stubborn.</p>
