@@ -57,7 +57,7 @@
   <div align="center">
     <p>I bite, always interact with EXTREME caution.</p>
     <p>Confrontational and can become hostile towards you.</p>
-    <p>In calls i am always Muted, i do not speak unless it is with my family.</p>
+    <p>I'm low energy.</p>
     <p>I say "I love you"/"Love you" in a non-romantic manner, please don't mistake it as anything but platonic.</p>
     <p>Due to me being paternal, be warned that i do have fatherly behaviours and attitudes.</p>
     <p>I will speak my mind if i'm talking with you, both good and bad.</p>
